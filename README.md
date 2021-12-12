@@ -1,5 +1,5 @@
 # Naif-sort-python
-Raw sorting algorithm. No algorithms but only display the sorting steps.
+Raw sorting "algorithm". No algorithms but only display the sorting steps.
 
 Written in python and uses pygame for the graphics part.
 
